@@ -1,16 +1,64 @@
-# React + Vite
+# Book Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple Book Finder web application that I built using React. The main purpose of this project is to search books by name and show basic details like book image, title, and author.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Project Links
 
-## React Compiler
+Live Website:
+[https://boisterous-kelpie-ffb0ce.netlify.app/](https://boisterous-kelpie-ffb0ce.netlify.app/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+GitHub Repository:
+[https://github.com/krishnakokkera/book-finder-react](https://github.com/krishnakokkera/book-finder-react)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+* React
+* HTML
+* CSS
+* JavaScript
+* Open Library API
+
+## What This Project Does
+
+* User can type a book name in the search box
+* After clicking search, the book results are displayed
+* Each result shows the book cover, title, and author name
+* The layout is responsive and simple
+
+
+## How to Run This Project
+
+1. Download or clone the project
+
+```bash
+git clone https://github.com/krishnakokkera/book-finder-react.git
+
+2. Open the project folder
+
+```bash
+cd book-finder-react
+
+3. Install required packages
+
+```bash
+npm install
+
+4. Run the project
+npm run dev
+
+5. Open the browser and go to   
+http://localhost:517
+
+
+## About This Project
+
+I created this project as part of a Web Developer assignment. Through this project, I practiced React basics, API calling, and CSS styling.
+
+## Student Details
+
+Name: Krishna Veni Kokkera
+Candidate ID: Naukri0925
+
+Thank you for checking my project.
